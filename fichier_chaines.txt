@@ -1,0 +1,6 @@
+id, nbr_point, idDepart, idArrive ,zone_gauche,zone_droit
+1 ,0 ,1 ,2 ,1 ,1
+2 ,2 ,2 ,1 ,1 ,0
+3 ,0 ,1 ,3 ,1 ,1
+4 ,0 ,3 ,2 ,1 ,0
+5 ,1 ,1 ,3 ,1 ,0
